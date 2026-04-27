@@ -10,7 +10,7 @@
 
 ### FOSSASIA - Scrum Helper
 - ✅ Fixed double scrollbar issue (#434) [Merged]
-- 🔄 UI Improvement: Collapsible filter section (#387) [Under Review]
+- 🔄 UI Improvement: Collapsible filter section (#387) 
 - ⚡ Additional PRs: 3 total (1 merged, 1 closed, 1 pending)
 
 ---
@@ -19,6 +19,7 @@
 - C++
 - JavaScript
 - HTML, CSS
+- mongodb,sql
 - Git & GitHub
 
 ---
@@ -32,6 +33,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/gurusatsangi
+- Gmail:guruprasadsatsangi15@gmail.com
 
 ---
 
