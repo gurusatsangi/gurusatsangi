@@ -1,40 +1,41 @@
-# Hi, I'm Guru 👋
+# 👋 Hi, I'm Guru Prasad
 
-🎓 3rd Year Student  
-💻 Open Source Contributor @ FOSSASIA  
-🚀 GSoC 2026 Aspirant  
+🎓 3rd Year Computer Science Student
+💻 Open Source Contributor at FOSSASIA
 
 ---
 
 ## 🔥 Open Source Contributions
 
-### FOSSASIA - Scrum Helper
-- ✅ Fixed double scrollbar issue (#434) [Merged]
-- 🔄 UI Improvement: Collapsible filter section (#387) 
-- ⚡ Additional PRs: 3 total (1 merged, 1 closed, 1 pending)
+### 🏢 FOSSASIA — Scrum Helper
+
+* ✅ Fixed double scrollbar issue (#434) *(Merged)*
+* 🔄 UI Improvement: Collapsible filter section (#387)
+* ⚡ Multiple PR contributions (merged, reviewed, and improvements)
+
+---
+
+## 🚀 Projects
+
+* 🚀 Actively Working on Personal & Self Projects
 
 ---
 
 ## 🛠️ Tech Stack
-- C++
-- JavaScript
-- HTML, CSS
-- mongodb,sql
-- Git & GitHub
 
----
-
-## 🎯 Current Focus
-- Contributing to Scrum Helper
-- Improving UI/UX
-- Writing GSoC 2026 Proposal
+* C++
+* JavaScript
+* HTML, CSS
+* MongoDB, SQL
+* Git & GitHub
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/gurusatsangi
-- Gmail:guruprasadsatsangi15@gmail.com
+
+* 🔗 GitHub: https://github.com/gurusatsangi
+* 📧 Email: [guruprasadsatsangi15@gmail.com](mailto:guruprasadsatsangi15@gmail.com)
 
 ---
 
-⭐ *Actively contributing and learning in open source*
+⭐ Continuously learning, building, and contributing to open source.
